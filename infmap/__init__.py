@@ -1,2 +1,2 @@
-import infmap.creat
 import infmap.map
+import infmap.creat
